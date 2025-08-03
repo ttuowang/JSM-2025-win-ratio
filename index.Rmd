@@ -24,7 +24,7 @@ output:
 ---
 class: center, middle
 
-`r anicon::faa("link", animate="float", color="#222831")` .fancy[Slides link:] https://ttuowang.github.io/ENAR-2025-win-ratio/
+`r anicon::faa("link", animate="float", color="#222831")` .fancy[Slides link:] https://ttuowang.github.io/JSM-2025-win-ratio/
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE, htmltools.preserve.raw = FALSE)
