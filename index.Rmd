@@ -260,7 +260,7 @@ where $\boldsymbol{Y}^{(a)}$ denote the potential outcome under group $a$ ( $0$ 
 
 
 .pull-left[
-#### Simualted example
+#### Simulated example
 
 - $T_j(1) \sim$ GAMMA(shape = 3, scale = 1), $T_j(0) \sim$ GAMMA(shape =
 3, scale = 0.8)
